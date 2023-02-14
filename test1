@@ -1,0 +1,6 @@
+# This program adds two numbers
+A = 7.5
+B = 8
+# Adding two numbers
+Sum = A + B
+print('The Sum of {0} and {1} is {2}'.format(A,b,Sum))
