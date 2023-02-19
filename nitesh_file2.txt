@@ -1,0 +1,3 @@
+This file is created to perform "git diff" operation
+New content now 
+removed 
